@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\kejiang\\AndroidStudioProjects\\ZBarScanner\\zBarScanProj\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\shadow.png",
+        "source": "E:\\kejiang\\AndroidStudioProjects\\ZBarScanner\\zBarScanProj\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\shadow.png"
+    },
+    {
+        "merged": "E:\\kejiang\\AndroidStudioProjects\\ZBarScanner\\zBarScanProj\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\qr_code_bg.9.png",
+        "source": "E:\\kejiang\\AndroidStudioProjects\\ZBarScanner\\zBarScanProj\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\qr_code_bg.9.png"
+    },
+    {
+        "merged": "E:\\kejiang\\AndroidStudioProjects\\ZBarScanner\\zBarScanProj\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\btn_back_normal.png",
+        "source": "E:\\kejiang\\AndroidStudioProjects\\ZBarScanner\\zBarScanProj\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\btn_back_normal.png"
+    },
+    {
+        "merged": "E:\\kejiang\\AndroidStudioProjects\\ZBarScanner\\zBarScanProj\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\kejiang\\AndroidStudioProjects\\ZBarScanner\\zBarScanProj\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\kejiang\\AndroidStudioProjects\\ZBarScanner\\zBarScanProj\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\qr_code_bj.png",
+        "source": "E:\\kejiang\\AndroidStudioProjects\\ZBarScanner\\zBarScanProj\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\qr_code_bj.png"
+    },
+    {
+        "merged": "E:\\kejiang\\AndroidStudioProjects\\ZBarScanner\\zBarScanProj\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\selector_capture_back.xml",
+        "source": "E:\\kejiang\\AndroidStudioProjects\\ZBarScanner\\zBarScanProj\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\selector_capture_back.xml"
+    },
+    {
+        "merged": "E:\\kejiang\\AndroidStudioProjects\\ZBarScanner\\zBarScanProj\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\scan_line.png",
+        "source": "E:\\kejiang\\AndroidStudioProjects\\ZBarScanner\\zBarScanProj\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\scan_line.png"
+    },
+    {
+        "merged": "E:\\kejiang\\AndroidStudioProjects\\ZBarScanner\\zBarScanProj\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\btn_back_press.png",
+        "source": "E:\\kejiang\\AndroidStudioProjects\\ZBarScanner\\zBarScanProj\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\btn_back_press.png"
+    }
+]
